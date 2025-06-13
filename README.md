@@ -211,7 +211,3 @@ For production deployment:
 2. **High Availability**: Consider using Redis Sentinel or Cluster
 3. **Worker Scaling**: Run multiple worker processes (one per CPU core for CPU-bound tasks)
 4. **Monitoring**: Use the monitoring tools to track queue health
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
